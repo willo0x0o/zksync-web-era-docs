@@ -10,7 +10,7 @@ head:
 ## Introduction
 
 To better understand rollups we need to dive briefly into Ethereum and Layer 2 solutions.
-
+以太坊网络经常拥堵，导致交易缓慢和天然气价格上涨。虽然这种情况已经存在很长时间了，但我们需要一种改进的解决方案：一种不限制吞吐量，而是在不牺牲安全性的情况下实现高交易率的解决方案。这就是第 2 层解决方案的亮点。
 The Ethereum network is frequently congested, which results in slow transactions and increased gas prices.
 While this has remained so for a long time, an improved solution is needed: one that will not put limits on the throughput, but instead,
 achieve a high transaction rate without having to trade off security. That is where Layer 2 solutions shine.
